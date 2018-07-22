@@ -1,0 +1,16 @@
+{
+  "name": "koaql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "apollo-server-koa": "^2.0.0-rc.12",
+    "glob": "^7.1.2",
+    "glob-fs": "^0.1.7",
+    "graphql": "^0.13.2",
+    "koa": "^2.5.2"
+  }
+}
